@@ -14,6 +14,7 @@ It is built from mutual TLS, X.509 certificates and MCP tools, with one addition
 | | |
 |---|---|
 | The protocol and whitepaper | [hdtp.io](https://hdtp.io) |
+| The specification, its test vectors and SEPs | [hdtp-spec](https://github.com/humandelegatedtrustprotocol/hdtp-spec) |
 | Documentation | [docs.hdtp.io](https://docs.hdtp.io) |
 | The self-hosted node | [hdtp.dev](https://hdtp.dev) |
 | Hosted HDTP identities | [batondeck.com](https://batondeck.com) |
